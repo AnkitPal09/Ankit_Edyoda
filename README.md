@@ -1,2 +1,2 @@
 # Ankit_Edyoda
-Edyoda_Assignment.ipynb contains solution of all the problems.
+Ankit_Edyoda_Assignment.ipynb contains solution of all the problems.
